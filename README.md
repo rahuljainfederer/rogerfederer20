@@ -1,8 +1,8 @@
-- 👋 Hi, I’m  Rahul Jain @rogerfederer20
+- 👋 Hi, I’m  n @rogerfederer20
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - https://www.linkedin.com/in/rahulfederer/
+- 📫 How to reach me -
 
 <!---
 rogerfederer20/rogerfederer20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
